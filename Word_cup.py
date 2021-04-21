@@ -2,9 +2,9 @@ from matplotlib import pyplot as plt
 import pandas as pd
 import seaborn as sns
 
-df = pd.read_csv('C:\\Users\\Ghisl\\OneDrive\\Documents\\Formations\\Python\\Kaggle\\Fifa Wold cup\\WorldCupMatches.csv')
-players = pd.read_csv('C:\\Users\\Ghisl\\OneDrive\\Documents\\Formations\\Python\\Kaggle\\Fifa Wold cup\\WorldCupPlayers.csv')
-cups = pd.read_csv('C:\\Users\\Ghisl\\OneDrive\\Documents\\Formations\\Python\\Kaggle\\Fifa Wold cup\\WorldCups.csv')
+df = pd.read_csv('C:\\Users\\Ghisl\\Python\\Kaggle\\Fifa Wold cup\\WorldCupMatches.csv')
+players = pd.read_csv('C:\\Users\\Ghisl\\Python\\Kaggle\\Fifa Wold cup\\WorldCupPlayers.csv')
+cups = pd.read_csv('C:\\Users\\Ghisl\\Python\\Kaggle\\Fifa Wold cup\\WorldCups.csv')
 
 
 #print(df.head())
